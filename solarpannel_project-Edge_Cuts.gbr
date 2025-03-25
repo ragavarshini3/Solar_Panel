@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.0*%
+%TF.CreationDate,2025-03-25T11:32:13+05:30*%
+%TF.ProjectId,solarpannel_project,736f6c61-7270-4616-9e6e-656c5f70726f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.0) date 2025-03-25 11:32:13*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X113500000Y-65000000D02*
+X187500000Y-65000000D01*
+X187500000Y-105000000D01*
+X113500000Y-105000000D01*
+X113500000Y-65000000D01*
+M02*
